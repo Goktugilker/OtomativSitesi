@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <title>Göktuğ Otomativ</title>
-    <link rel="stylesheet" href="/Göktuğ İlker 036/css/style.css">
-    <link rel="stylesheet" href="/Göktuğ İlker 036/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
@@ -15,15 +15,15 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="logo">
-                        <a href="/Göktuğ İlker 036/index.php"><img src="/Göktuğ İlker 036/img/logo.png" alt="Logo"></a>
+                        <a href="index.php"><img src="img/logo.png" alt="Logo"></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="btn-group menu ">
-                        <button class="btn btn-group btn-seffaf btn-lg"><a href="/Göktuğ İlker 036/index.php" class="menuts">Ana Sayfa</a></button>
-                        <button class="btn btn-group btn-seffaf btn-lg"><a href="/Göktuğ İlker 036/sayfalar/hakkımızda.php"class="menuts">Hakkımızda</a></button>
-                        <button class="btn btn-group btn-seffaf btn-lg"><a href="/Göktuğ İlker 036/sayfalar/galeri.php"class="menuts">Galeri</a></button>
-                        <button class="btn btn-group btn-seffaf btn-lg"><a href="/Göktuğ İlker 036/sayfalar/iletisim.php"class="menuts">İletişim</a></button>
+                        <button class="btn btn-group btn-seffaf btn-lg"><a href="index.php" class="menuts">Ana Sayfa</a></button>
+                        <button class="btn btn-group btn-seffaf btn-lg"><a href="sayfalar/hakkımızda.php"class="menuts">Hakkımızda</a></button>
+                        <button class="btn btn-group btn-seffaf btn-lg"><a href="sayfalar/galeri.php"class="menuts">Galeri</a></button>
+                        <button class="btn btn-group btn-seffaf btn-lg"><a href="sayfalar/iletisim.php"class="menuts">İletişim</a></button>
                     </div>
                 </div>
             </div>
